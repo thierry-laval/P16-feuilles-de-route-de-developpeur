@@ -33,7 +33,7 @@
     "nanostores": "^0.9.4",
     "node-html-parser": "^6.1.5",
     "npm-check-updates": "^16.10.8",
-    "preact": "^10.13.2",
+    "preact": "^10.27.2",
     "rehype-external-links": "^2.0.1",
     "roadmap-renderer": "^1.0.5",
     "tailwindcss": "^3.3.1"
