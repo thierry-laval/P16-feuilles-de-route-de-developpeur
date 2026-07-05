@@ -32,7 +32,7 @@
     "js-cookie": "^3.0.1",
     "nanostores": "^0.9.4",
     "node-html-parser": "^6.1.5",
-    "npm-check-updates": "^16.10.8",
+    "npm-check-updates": "^16.14.20",
     "preact": "^10.13.2",
     "rehype-external-links": "^2.0.1",
     "roadmap-renderer": "^1.0.5",
